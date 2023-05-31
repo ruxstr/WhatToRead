@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatToRead</string>
+    <string name="activity_all_books">All Books</string>
+    <string name="activity_book">Book Details</string>
+    <string name="activity_already_read">Finished Books</string>
+    <string name="activity_favorite_books">Favorite Books</string>
+    <string name="activity_want_to_read">TBR</string>
+    <string name="activity_currently_reading">In Progress...</string>
+    <string name="profile">Profile</string>
+    <string name="a_lot_of_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempus dui sed metus luctus elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla semper enim et erat accumsan cursus. Phasellus vel dolor quis orci ullamcorper porttitor. Mauris pretium arcu erat. Etiam dapibus semper odio in fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus aliquet iaculis ullamcorper. Ut viverra velit non dui consequat tempor. Curabitur maximus, tellus quis euismod commodo, neque tortor egestas dolor, eu vehicula mi dui posuere leo. Fusce bibendum felis vitae odio dictum finibus et sit amet arcu. Nam maximus consectetur libero, luctus vehicula enim elementum eu. Nam faucibus rutrum consectetur. Phasellus dapibus arcu nec feugiat facilisis. In nec nisi lacinia, congue libero sed, volutpat diam.</string>
+
+</resources>
